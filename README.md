@@ -7,7 +7,7 @@ First, run the development server:
 This is a Next.js and tailwind app 
 
 
-## To run the app please write the below command in terminal
+## To create the app at first, please write the below command in terminal
 - npx create-next-app@latest
 
 
